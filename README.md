@@ -10,6 +10,8 @@ Semua scene tersedia di `Assets/Scenes/`:
 |---|---|---|
 | `SampleScene` | Tugas 1 & 2 | Implementasi dasar AI pada game |
 | `AI Pathfinding` | Tugas 3 | Implementasi algoritma pathfinding untuk navigasi AI |
+| `AI Pathfinding` | Tugas 4 | Implementasi FSM sederhana|
+| `AI Pathfinding` | Tugas 5 | Implementasi abstract class game RPG (Mage, Archer, Warrior) |
 
 ## Cara Membuka Proyek
 
