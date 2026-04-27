@@ -18,7 +18,7 @@ public class Mage : Character
     protected override void Awake()
     {
         base.Awake();
-        health = 80f;
+        health = 120f;
         damage = 5f;
         targetType = "Rotate";
         rotateSpeed = 150f;
