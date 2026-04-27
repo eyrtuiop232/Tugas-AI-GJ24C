@@ -6,12 +6,13 @@ Repositori ini berisi kumpulan tugas praktikum mata kuliah **Game AI / Kecerdasa
 
 Semua scene tersedia di `Assets/Scenes/`:
 
-| Scene | Isi | Deskripsi |
-|---|---|---|
-| `SampleScene` | Tugas 1 & 2 | Implementasi dasar AI pada game |
-| `AI Pathfinding` | Tugas 3 | Implementasi algoritma pathfinding untuk navigasi AI |
-| `FSM` | Tugas 4 | Implementasi FSM sederhana|
-| `State Machine RPG` | Tugas 5 | Implementasi abstract class game RPG (Mage, Archer, Warrior) |
+| Scene | Isi | Deskripsi | Lokasi Script |
+|---|---|---|---|
+| `SampleScene` | Tugas 1 & 2 | Implementasi dasar AI pada game | Assets.Scripts.PointObject & Assets.Scripts.Waypoint |
+| `AI Pathfinding` | Tugas 3 | Implementasi algoritma pathfinding untuk navigasi AI | Assets.Scripts.Navmesh AI |
+| `FSM` | Tugas 4 | Implementasi FSM sederhana| Assets.Scripts.FSM |
+| `State Machine RPG` | Tugas 5 | Implementasi abstract class game RPG (Mage, Archer, Warrior) | Assets.Scripts.State Machine RPG |
+| `FSM Modular` | Tugas 6 | Implementasi FSM Modular menggunakan scriptable object | Assets.Scripts.Modular FSM |
 
 ## Cara Membuka Proyek
 
